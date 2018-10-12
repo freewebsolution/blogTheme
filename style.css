@@ -72,7 +72,7 @@ body {
   font-family: 'Open Sans', sans-serif;
   color: #444444;
   //background:url('http://www.freewebsolution.it/wp-content/themes/sublime2.1/assets/img/bg-pattern.png') repeat;
-  // background-color: grey;
+  background-color: grey;
 }
 h1,h2,h3,h4,h5,h6,p,a,small,ul,ol,form,input{font-family: 'Roboto Slab', serif;}
 p {
