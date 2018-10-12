@@ -68,7 +68,7 @@ a:link, a:visited { outline: 0 !important;text-decoration:none; }
 a:hover, a:active { outline: none !important;text-decoration:none; }
 
 body {
-  font-size: 60px;//fatto da lucio su prova
+  font-size: 20px;//fatto da lucio su prova
   font-family: 'Open Sans', sans-serif;
   color: #444444;
   //background:url('http://www.freewebsolution.it/wp-content/themes/sublime2.1/assets/img/bg-pattern.png') repeat;
